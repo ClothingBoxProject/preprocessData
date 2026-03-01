@@ -1,0 +1,3330 @@
+[
+  {
+    "bin_id": 1,
+    "district": "사당1동",
+    "latitude": 37.4786804,
+    "longitude": 126.9746791,
+    "address": "서울특별시 동작구 사당로20길 109",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 2,
+    "district": "사당1동",
+    "latitude": 37.4790134,
+    "longitude": 126.9729944,
+    "address": "서울특별시 동작구 사당로20바길 31",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 3,
+    "district": "사당1동",
+    "latitude": 37.4801315,
+    "longitude": 126.9771206,
+    "address": "서울특별시 동작구 사당로22길 75",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 4,
+    "district": "사당1동",
+    "latitude": 37.4806086,
+    "longitude": 126.9751306,
+    "address": "서울특별시 동작구 사당로22나길 36",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 5,
+    "district": "사당1동",
+    "latitude": 37.4828803,
+    "longitude": 126.9810091,
+    "address": "서울특별시 동작구 사당로30길 43",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 6,
+    "district": "사당1동",
+    "latitude": 37.4813396,
+    "longitude": 126.980953,
+    "address": "서울특별시 동작구 사당로30길 79",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 7,
+    "district": "사당1동",
+    "latitude": 37.4805197,
+    "longitude": 126.9808628,
+    "address": "서울특별시 동작구 사당로30길 97",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 8,
+    "district": "사당1동",
+    "latitude": 37.4806997,
+    "longitude": 126.9801504,
+    "address": "서울특별시 동작구 동작대로9길 26",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 9,
+    "district": "사당1동",
+    "latitude": 37.4807087,
+    "longitude": 126.9799469,
+    "address": "서울특별시 동작구 동작대로9길 28",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 10,
+    "district": "사당1동",
+    "latitude": 37.4807267,
+    "longitude": 126.9795851,
+    "address": "서울특별시 동작구 동작대로9길 36",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 11,
+    "district": "사당1동",
+    "latitude": 37.4811501,
+    "longitude": 126.9796755,
+    "address": "서울특별시 동작구 동작대로11길 33",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 12,
+    "district": "사당1동",
+    "latitude": 37.4818801,
+    "longitude": 126.9804214,
+    "address": "서울특별시 동작구 동작대로13길 12",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 13,
+    "district": "사당1동",
+    "latitude": 37.4819426,
+    "longitude": 126.9774366,
+    "address": "서울특별시 동작구 동작대로13길 38-1",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 14,
+    "district": "사당1동",
+    "latitude": 37.4827091,
+    "longitude": 126.9808056,
+    "address": "서울특별시 동작구 동작대로17길 7",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 15,
+    "district": "사당1동",
+    "latitude": 37.4827896,
+    "longitude": 126.9778547,
+    "address": "서울특별시 동작구 동작대로17길 35",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 16,
+    "district": "사당1동",
+    "latitude": 37.4759947,
+    "longitude": 126.9719894,
+    "address": "서울특별시 동작구 남부순환로 2009",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 17,
+    "district": "사당1동",
+    "latitude": 37.4856085,
+    "longitude": 126.9722909,
+    "address": "서울특별시 동작구 남부순환로 2027",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 18,
+    "district": "사당1동",
+    "latitude": 37.4768878,
+    "longitude": 126.9767712,
+    "address": "서울특별시 동작구 남부순환로 2053",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 19,
+    "district": "사당1동",
+    "latitude": 37.4765982,
+    "longitude": 126.9710847,
+    "address": "서울특별시 동작구 남부순환로255길 10",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 20,
+    "district": "사당1동",
+    "latitude": 37.4772923,
+    "longitude": 126.9722941,
+    "address": "서울특별시 동작구 남부순환로255가길 15",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 21,
+    "district": "사당1동",
+    "latitude": 37.477211,
+    "longitude": 126.9714236,
+    "address": "서울특별시 동작구 남부순환로255나길 9",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 22,
+    "district": "사당1동",
+    "latitude": 37.4775624,
+    "longitude": 126.9714913,
+    "address": "서울특별시 동작구 남부순환로255다길 22",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 23,
+    "district": "사당1동",
+    "latitude": 37.4780131,
+    "longitude": 126.9725199,
+    "address": "서울특별시 동작구 남부순환로257길 30",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 24,
+    "district": "사당1동",
+    "latitude": 37.4773465,
+    "longitude": 126.9728707,
+    "address": "서울특별시 동작구 남부순환로257가길 2",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 25,
+    "district": "사당1동",
+    "latitude": 37.4782119,
+    "longitude": 126.9748488,
+    "address": "서울특별시 동작구 남부순환로257가길 23",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 26,
+    "district": "사당1동",
+    "latitude": 37.4780858,
+    "longitude": 126.9750637,
+    "address": "서울특별시 동작구 남부순환로257가길 24",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 27,
+    "district": "사당1동",
+    "latitude": 37.4856085,
+    "longitude": 126.9722909,
+    "address": "서울특별시 동작구 남부순환로258가길 17",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 28,
+    "district": "사당1동",
+    "latitude": 37.4767426,
+    "longitude": 126.9722378,
+    "address": "서울특별시 동작구 남부순환로259길 18",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 29,
+    "district": "사당1동",
+    "latitude": 37.4766077,
+    "longitude": 126.9731423,
+    "address": "서울특별시 동작구 남부순환로259가길 13",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 30,
+    "district": "사당1동",
+    "latitude": 37.4774549,
+    "longitude": 126.9740238,
+    "address": "서울특별시 동작구 남부순환로261길 20",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 31,
+    "district": "사당1동",
+    "latitude": 37.4782839,
+    "longitude": 126.9745888,
+    "address": "서울특별시 동작구 남부순환로265길 58",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 32,
+    "district": "사당1동",
+    "latitude": 37.4787615,
+    "longitude": 126.9750295,
+    "address": "서울특별시 동작구 남부순환로265길 68",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 33,
+    "district": "사당1동",
+    "latitude": 37.4785816,
+    "longitude": 126.9762845,
+    "address": "서울특별시 동작구 남부순환로269길 56",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 34,
+    "district": "사당1동",
+    "latitude": 37.4791579,
+    "longitude": 126.974758,
+    "address": "서울특별시 동작구 남부순환로269길 87",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 35,
+    "district": "사당1동",
+    "latitude": 37.4797254,
+    "longitude": 126.9741247,
+    "address": "서울특별시 동작구 남부순환로269길 102",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 36,
+    "district": "사당1동",
+    "latitude": 37.4789954,
+    "longitude": 126.9731753,
+    "address": "서울특별시 동작구 남부순환로269길 124",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 37,
+    "district": "사당4동",
+    "latitude": 37.4821775,
+    "longitude": 126.9807606,
+    "address": "서울특별시 동작구 동작대로15길 15",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 38,
+    "district": "사당4동",
+    "latitude": 37.4805172,
+    "longitude": 126.9697264,
+    "address": "서울특별시 동작구 사당로14길 87",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 39,
+    "district": "사당4동",
+    "latitude": 37.4826257,
+    "longitude": 126.9704943,
+    "address": "서울특별시 동작구 사당로14길 40-9",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 40,
+    "district": "사당4동",
+    "latitude": 37.4818599,
+    "longitude": 126.970359,
+    "address": "서울특별시 동작구 사당로14길 58",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 41,
+    "district": "사당4동",
+    "latitude": 37.4815175,
+    "longitude": 126.9705287,
+    "address": "서울특별시 동작구 사당로14길 61-2",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 42,
+    "district": "사당4동",
+    "latitude": 37.4842657,
+    "longitude": 126.971059,
+    "address": "서울특별시 동작구 사당로14가길 21",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 43,
+    "district": "사당4동",
+    "latitude": 37.4789408,
+    "longitude": 126.9709707,
+    "address": "서울특별시 동작구 사당로16길 111",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 44,
+    "district": "사당4동",
+    "latitude": 37.4785082,
+    "longitude": 126.9707108,
+    "address": "서울특별시 동작구 사당로16길 121",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 45,
+    "district": "사당4동",
+    "latitude": 37.4846344,
+    "longitude": 126.9682435,
+    "address": "서울특별시 동작구 사당로16다길 98",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 46,
+    "district": "사당4동",
+    "latitude": 37.4822652,
+    "longitude": 126.9699179,
+    "address": "서울특별시 동작구 사당로16라길 17",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 47,
+    "district": "사당4동",
+    "latitude": 37.4819678,
+    "longitude": 126.9696579,
+    "address": "서울특별시 동작구 사당로16라길 27",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 48,
+    "district": "사당4동",
+    "latitude": 37.4814,
+    "longitude": 126.9689233,
+    "address": "서울특별시 동작구 사당로16라길 46",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 49,
+    "district": "사당4동",
+    "latitude": 37.4816441,
+    "longitude": 126.9720776,
+    "address": "서울특별시 동작구 사당로16마길 3",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 50,
+    "district": "사당4동",
+    "latitude": 37.4817519,
+    "longitude": 126.9710035,
+    "address": "서울특별시 동작구 사당로16마길 21",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 51,
+    "district": "사당4동",
+    "latitude": 37.4818149,
+    "longitude": 126.9706643,
+    "address": "서울특별시 동작구 사당로16마길 29",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 52,
+    "district": "사당4동",
+    "latitude": 37.4856085,
+    "longitude": 126.9722909,
+    "address": "서울특별시 동작구 사당로16마길 36",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 53,
+    "district": "사당4동",
+    "latitude": 37.4817429,
+    "longitude": 126.9711391,
+    "address": "서울특별시 동작구 사당로16사길 2",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 54,
+    "district": "사당4동",
+    "latitude": 37.480193,
+    "longitude": 126.9702353,
+    "address": "서울특별시 동작구 사당로16사길 39",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 55,
+    "district": "사당4동",
+    "latitude": 37.4806523,
+    "longitude": 126.9693985,
+    "address": "서울특별시 동작구 사당로16아길 46",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 56,
+    "district": "사당4동",
+    "latitude": 37.4797965,
+    "longitude": 126.9700772,
+    "address": "서울특별시 동작구 사당로16자길 31",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 57,
+    "district": "사당4동",
+    "latitude": 37.4823022,
+    "longitude": 126.9739429,
+    "address": "서울특별시 동작구 사당로20가길 28",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 58,
+    "district": "사당4동",
+    "latitude": 37.4807523,
+    "longitude": 126.9729259,
+    "address": "서울특별시 동작구 사당로20나길 64",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 59,
+    "district": "사당4동",
+    "latitude": 37.4804098,
+    "longitude": 126.9726999,
+    "address": "서울특별시 동작구 사당로20나길 72",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 60,
+    "district": "사당4동",
+    "latitude": 37.4814554,
+    "longitude": 126.9742597,
+    "address": "서울특별시 동작구 사당로20다길 3",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 61,
+    "district": "사당4동",
+    "latitude": 37.4806083,
+    "longitude": 126.9736269,
+    "address": "서울특별시 동작구 사당로20다길 15",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 62,
+    "district": "사당4동",
+    "latitude": 37.4801397,
+    "longitude": 126.9732653,
+    "address": "서울특별시 동작구 사당로20다길 23",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 63,
+    "district": "사당4동",
+    "latitude": 37.4799866,
+    "longitude": 126.9737741,
+    "address": "서울특별시 동작구 사당로20바길 18-1",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 64,
+    "district": "사당4동",
+    "latitude": 37.4797612,
+    "longitude": 126.9730393,
+    "address": "서울특별시 동작구 사당로20사길 22",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 65,
+    "district": "사당4동",
+    "latitude": 37.4792115,
+    "longitude": 126.972723,
+    "address": "서울특별시 동작구 사당로20사길 29",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 66,
+    "district": "사당4동",
+    "latitude": 37.4805361,
+    "longitude": 126.9733217,
+    "address": "서울특별시 동작구 사당로22나길 69",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 67,
+    "district": "사당4동",
+    "latitude": 37.4771206,
+    "longitude": 126.9704401,
+    "address": "서울특별시 동작구 남부순환로255길 18",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 68,
+    "district": "사당4동",
+    "latitude": 37.4773727,
+    "longitude": 126.9699086,
+    "address": "서울특별시 동작구 남부순환로255길 24",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 69,
+    "district": "사당4동",
+    "latitude": 37.4856085,
+    "longitude": 126.9722909,
+    "address": "서울특별시 동작구 남부순환로255라길 8",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 70,
+    "district": "사당4동",
+    "latitude": 37.4778685,
+    "longitude": 126.9708241,
+    "address": "서울특별시 동작구 남부순환로255마길 15",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 71,
+    "district": "사당4동",
+    "latitude": 37.4773819,
+    "longitude": 126.9704965,
+    "address": "서울특별시 동작구 남부순환로255마길 2",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 72,
+    "district": "사당4동",
+    "latitude": 37.4783464,
+    "longitude": 126.9720789,
+    "address": "서울특별시 동작구 남부순환로257길 33",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 73,
+    "district": "사당5동",
+    "latitude": 37.487364,
+    "longitude": 126.9667498,
+    "address": "서울특별시 동작구 사당로 158",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 74,
+    "district": "사당5동",
+    "latitude": 37.4866164,
+    "longitude": 126.9676999,
+    "address": "서울특별시 동작구 사당로 170",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 75,
+    "district": "사당5동",
+    "latitude": 37.486076,
+    "longitude": 126.9682768,
+    "address": "서울특별시 동작구 사당로 178",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 76,
+    "district": "사당5동",
+    "latitude": 37.4912285,
+    "longitude": 126.9640455,
+    "address": "서울특별시 동작구 사당로2길 52",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 77,
+    "district": "사당5동",
+    "latitude": 37.4894179,
+    "longitude": 126.9654033,
+    "address": "서울특별시 동작구 사당로2길 76",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 78,
+    "district": "사당5동",
+    "latitude": 37.4898855,
+    "longitude": 126.9625649,
+    "address": "서울특별시 동작구 사당로2가길 91",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 79,
+    "district": "사당5동",
+    "latitude": 37.4884353,
+    "longitude": 126.963832,
+    "address": "서울특별시 동작구 사당로2가길 133",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 80,
+    "district": "사당5동",
+    "latitude": 37.4882281,
+    "longitude": 126.9638887,
+    "address": "서울특별시 동작구 사당로2가길 139",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 81,
+    "district": "사당5동",
+    "latitude": 37.4860754,
+    "longitude": 126.9663433,
+    "address": "서울특별시 동작구 사당로2가길 207",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 82,
+    "district": "사당5동",
+    "latitude": 37.4899216,
+    "longitude": 126.9627005,
+    "address": "서울특별시 동작구 사당로2다길 78",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 83,
+    "district": "사당5동",
+    "latitude": 37.4902552,
+    "longitude": 126.9635937,
+    "address": "서울특별시 동작구 사당로2라길 63",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 84,
+    "district": "사당5동",
+    "latitude": 37.4896966,
+    "longitude": 126.9634017,
+    "address": "서울특별시 동작구 사당로2마길 57",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 85,
+    "district": "사당5동",
+    "latitude": 37.4893092,
+    "longitude": 126.9637637,
+    "address": "서울특별시 동작구 사당로2마길 65-4",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 86,
+    "district": "사당5동",
+    "latitude": 37.4914986,
+    "longitude": 126.9635591,
+    "address": "서울특별시 동작구 사당로2사길 8",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 87,
+    "district": "사당5동",
+    "latitude": 37.4901835,
+    "longitude": 126.9645209,
+    "address": "서울특별시 동작구 사당로2아길 2",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 88,
+    "district": "사당5동",
+    "latitude": 37.4894807,
+    "longitude": 126.9644873,
+    "address": "서울특별시 동작구 사당로2자길 2-15",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 89,
+    "district": "사당5동",
+    "latitude": 37.489742,
+    "longitude": 126.9646794,
+    "address": "서울특별시 동작구 사당로2자길 6",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 90,
+    "district": "사당5동",
+    "latitude": 37.4888319,
+    "longitude": 126.9643859,
+    "address": "서울특별시 동작구 사당로2자길 28",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 91,
+    "district": "사당5동",
+    "latitude": 37.4856085,
+    "longitude": 126.9722909,
+    "address": "서울특별시 동작구 사당로2자길 49",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 92,
+    "district": "사당5동",
+    "latitude": 37.4877599,
+    "longitude": 126.96485,
+    "address": "서울특별시 동작구 사당로2차길 2",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 93,
+    "district": "사당5동",
+    "latitude": 37.486697,
+    "longitude": 126.9657664,
+    "address": "서울특별시 동작구 사당로4길 23",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 94,
+    "district": "사당5동",
+    "latitude": 37.482787,
+    "longitude": 126.9671024,
+    "address": "서울특별시 동작구 사당로8길 68",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 95,
+    "district": "사당5동",
+    "latitude": 37.4836882,
+    "longitude": 126.9678595,
+    "address": "서울특별시 동작구 사당로8나길 12",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 96,
+    "district": "사당5동",
+    "latitude": 37.4832646,
+    "longitude": 126.9672604,
+    "address": "서울특별시 동작구 사당로8나길 24",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 97,
+    "district": "사당5동",
+    "latitude": 37.4834903,
+    "longitude": 126.9690354,
+    "address": "서울특별시 동작구 사당로10길 48",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 98,
+    "district": "사당5동",
+    "latitude": 37.4831388,
+    "longitude": 126.9686173,
+    "address": "서울특별시 동작구 사당로10길 58",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 99,
+    "district": "사당5동",
+    "latitude": 37.4820571,
+    "longitude": 126.9667748,
+    "address": "서울특별시 동작구 사당로10길 102",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 100,
+    "district": "사당5동",
+    "latitude": 37.4842473,
+    "longitude": 126.9696796,
+    "address": "서울특별시 동작구 사당로16가길 71",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 101,
+    "district": "사당5동",
+    "latitude": 37.4835626,
+    "longitude": 126.9697929,
+    "address": "서울특별시 동작구 사당로16다길 62",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 102,
+    "district": "사당5동",
+    "latitude": 37.4847335,
+    "longitude": 126.9682095,
+    "address": "서울특별시 동작구 사당로16다길 102",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 103,
+    "district": "사당5동",
+    "latitude": 37.4821922,
+    "longitude": 126.9668087,
+    "address": "서울특별시 동작구 솔밭로 64",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 104,
+    "district": "사당5동",
+    "latitude": 37.4826158,
+    "longitude": 126.9669442,
+    "address": "서울특별시 동작구 솔밭로 70",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 105,
+    "district": "사당5동",
+    "latitude": 37.48294,
+    "longitude": 126.9666387,
+    "address": "서울특별시 동작구 솔밭로 71",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 106,
+    "district": "사당5동",
+    "latitude": 37.4834988,
+    "longitude": 126.9672716,
+    "address": "서울특별시 동작구 솔밭로 80",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 107,
+    "district": "사당5동",
+    "latitude": 37.4843728,
+    "longitude": 126.9674069,
+    "address": "서울특별시 동작구 솔밭로 88",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 108,
+    "district": "사당5동",
+    "latitude": 37.4855892,
+    "longitude": 126.9674403,
+    "address": "서울특별시 동작구 솔밭로 97-12",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 109,
+    "district": "흑석동",
+    "latitude": 37.5069489,
+    "longitude": 126.9580208,
+    "address": "서울특별시 동작구 흑석로 75- 4",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 110,
+    "district": "흑석동",
+    "latitude": 37.5073625,
+    "longitude": 126.9557811,
+    "address": "서울특별시 동작구 흑석로3길 21",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 111,
+    "district": "흑석동",
+    "latitude": 37.507759,
+    "longitude": 126.9560636,
+    "address": "서울특별시 동작구 흑석로3길 25",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 112,
+    "district": "흑석동",
+    "latitude": 37.509309,
+    "longitude": 126.95673,
+    "address": "서울특별시 동작구 흑석로3길 47",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 113,
+    "district": "흑석동",
+    "latitude": 37.5096068,
+    "longitude": 126.9579174,
+    "address": "서울특별시 동작구 흑석로3길 59",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 114,
+    "district": "흑석동",
+    "latitude": 37.5068223,
+    "longitude": 126.9568559,
+    "address": "서울특별시 동작구 흑석로5길 9",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 115,
+    "district": "흑석동",
+    "latitude": 37.5091472,
+    "longitude": 126.9576689,
+    "address": "서울특별시 동작구 흑석로5길 73",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 116,
+    "district": "흑석동",
+    "latitude": 37.5054434,
+    "longitude": 126.9559293,
+    "address": "서울특별시 동작구 흑석로6길 31",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 117,
+    "district": "흑석동",
+    "latitude": 37.5055067,
+    "longitude": 126.9566192,
+    "address": "서울특별시 동작구 흑석로6나길 6",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 118,
+    "district": "흑석동",
+    "latitude": 37.5078316,
+    "longitude": 126.9573869,
+    "address": "서울특별시 동작구 흑석로7길 25",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 119,
+    "district": "흑석동",
+    "latitude": 37.5078233,
+    "longitude": 126.9592417,
+    "address": "서울특별시 동작구 흑석로9길 18",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 120,
+    "district": "흑석동",
+    "latitude": 37.5082101,
+    "longitude": 126.9576016,
+    "address": "서울특별시 동작구 흑석로9길 45",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 121,
+    "district": "흑석동",
+    "latitude": 37.5091646,
+    "longitude": 126.9560402,
+    "address": "서울특별시 동작구 흑석로9길 83",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 122,
+    "district": "흑석동",
+    "latitude": 37.5068505,
+    "longitude": 126.9600001,
+    "address": "서울특별시 동작구 흑석로10길 12",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 123,
+    "district": "흑석동",
+    "latitude": 37.5088863,
+    "longitude": 126.9589245,
+    "address": "서울특별시 동작구 흑석로11길 39",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 124,
+    "district": "흑석동",
+    "latitude": 37.5086071,
+    "longitude": 126.95923,
+    "address": "서울특별시 동작구 흑석로13마길 30",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 125,
+    "district": "흑석동",
+    "latitude": 37.5066541,
+    "longitude": 126.9657456,
+    "address": "서울특별시 동작구 현충로6길 11",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 126,
+    "district": "신대방1동",
+    "latitude": 37.4885226,
+    "longitude": 126.9094671,
+    "address": "서울특별시 동작구 신대방길 59",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 127,
+    "district": "신대방1동",
+    "latitude": 37.4893608,
+    "longitude": 126.9098053,
+    "address": "서울특별시 동작구 신대방길 80",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 128,
+    "district": "신대방1동",
+    "latitude": 37.4867393,
+    "longitude": 126.9102834,
+    "address": "서울특별시 동작구 신대방1길 24",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 129,
+    "district": "신대방1동",
+    "latitude": 37.4865315,
+    "longitude": 126.909594,
+    "address": "서울특별시 동작구 신대방1길 38",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 130,
+    "district": "신대방1동",
+    "latitude": 37.4862605,
+    "longitude": 126.9087237,
+    "address": "서울특별시 동작구 신대방1길 56",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 131,
+    "district": "신대방1동",
+    "latitude": 37.4859896,
+    "longitude": 126.9078534,
+    "address": "서울특별시 동작구 신대방1길 72",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 132,
+    "district": "신대방1동",
+    "latitude": 37.4856371,
+    "longitude": 126.9065535,
+    "address": "서울특별시 동작구 신대방1길 96",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 133,
+    "district": "신대방1동",
+    "latitude": 37.485447,
+    "longitude": 126.9054457,
+    "address": "서울특별시 동작구 신대방1길 116-1",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 134,
+    "district": "신대방1동",
+    "latitude": 37.4866277,
+    "longitude": 126.9059304,
+    "address": "서울특별시 동작구 신대방1다길 24",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 135,
+    "district": "신대방1동",
+    "latitude": 37.4884173,
+    "longitude": 126.9131082,
+    "address": "서울특별시 동작구 신대방2길 21",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 136,
+    "district": "신대방1동",
+    "latitude": 37.4887952,
+    "longitude": 126.9124632,
+    "address": "서울특별시 동작구 신대방2길 39",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 137,
+    "district": "신대방1동",
+    "latitude": 37.4892088,
+    "longitude": 126.9113094,
+    "address": "서울특별시 동작구 신대방2길 61",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 138,
+    "district": "신대방1동",
+    "latitude": 37.4886768,
+    "longitude": 126.9107447,
+    "address": "서울특별시 동작구 신대방6길 13",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 139,
+    "district": "신대방1동",
+    "latitude": 37.4878112,
+    "longitude": 126.9099655,
+    "address": "서울특별시 동작구 신대방7길 6-1",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 140,
+    "district": "신대방1동",
+    "latitude": 37.4885667,
+    "longitude": 126.9081781,
+    "address": "서울특별시 동작구 신대방11길 23",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 141,
+    "district": "신대방1동",
+    "latitude": 37.4897583,
+    "longitude": 126.9111052,
+    "address": "서울특별시 동작구 신대방14길 15",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 142,
+    "district": "신대방1동",
+    "latitude": 37.4901009,
+    "longitude": 126.9113649,
+    "address": "서울특별시 동작구 신대방14길 21",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 143,
+    "district": "신대방1동",
+    "latitude": 37.4899487,
+    "longitude": 126.9127558,
+    "address": "서울특별시 동작구 신대방14가길 34",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 144,
+    "district": "신대방1동",
+    "latitude": 37.4897422,
+    "longitude": 126.9136494,
+    "address": "서울특별시 동작구 신대방14가길 55",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 145,
+    "district": "신대방1동",
+    "latitude": 37.4895621,
+    "longitude": 126.9138418,
+    "address": "서울특별시 동작구 신대방14가길 60",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 146,
+    "district": "신대방1동",
+    "latitude": 37.490514,
+    "longitude": 126.9096795,
+    "address": "서울특별시 동작구 신대방16길 20",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 147,
+    "district": "신대방1동",
+    "latitude": 37.4910088,
+    "longitude": 126.9087404,
+    "address": "서울특별시 동작구 신대방16길 41",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 148,
+    "district": "신대방2동",
+    "latitude": 37.49755,
+    "longitude": 126.920889,
+    "address": "서울특별시 동작구 여의대방로22길 18",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 149,
+    "district": "신대방2동",
+    "latitude": 37.4968292,
+    "longitude": 126.9208785,
+    "address": "서울특별시 동작구 여의대방로22가길 25",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 150,
+    "district": "신대방1동",
+    "latitude": 37.4958481,
+    "longitude": 126.9223835,
+    "address": "서울특별시 동작구 여의대방로22나길 40",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 151,
+    "district": "신대방2동",
+    "latitude": 37.492655,
+    "longitude": 126.917174,
+    "address": "서울특별시 동작구 여의대방로22나길 58",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 152,
+    "district": "신대방2동",
+    "latitude": 37.495155,
+    "longitude": 126.9233228,
+    "address": "서울특별시 동작구 여의대방로22나길 78",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 153,
+    "district": "신대방2동",
+    "latitude": 37.496795,
+    "longitude": 126.9236151,
+    "address": "서울특별시 동작구 여의대방로22바길 44",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 154,
+    "district": "신대방2동",
+    "latitude": 37.4975524,
+    "longitude": 126.9245643,
+    "address": "서울특별시 동작구 여의대방로22사길 15",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 155,
+    "district": "신대방2동",
+    "latitude": 37.492655,
+    "longitude": 126.917174,
+    "address": "서울특별시 동작구 여의대방로22아길 24",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 156,
+    "district": "신대방2동",
+    "latitude": 37.4970569,
+    "longitude": 126.9245535,
+    "address": "서울특별시 동작구 여의대방로22자길 3",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 157,
+    "district": "신대방2동",
+    "latitude": 37.4977785,
+    "longitude": 126.925808,
+    "address": "서울특별시 동작구 여의대방로22카길 12",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 158,
+    "district": "신대방2동",
+    "latitude": 37.4962559,
+    "longitude": 126.9259113,
+    "address": "서울특별시 동작구 여의대방로22카길 47",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 159,
+    "district": "신대방2동",
+    "latitude": 37.4956973,
+    "longitude": 126.9260475,
+    "address": "서울특별시 동작구 여의대방로22카길 57",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 160,
+    "district": "신대방2동",
+    "latitude": 37.495598,
+    "longitude": 126.9257423,
+    "address": "서울특별시 동작구 여의대방로22카길 60",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 161,
+    "district": "신대방2동",
+    "latitude": 37.497966,
+    "longitude": 126.923139,
+    "address": "서울특별시 동작구 여의대방로24길 52",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 162,
+    "district": "신대방2동",
+    "latitude": 37.4934631,
+    "longitude": 126.9264116,
+    "address": "서울특별시 동작구 보라매로7길 24",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 163,
+    "district": "신대방2동",
+    "latitude": 37.4948509,
+    "longitude": 126.9267834,
+    "address": "서울특별시 동작구 보라매로9길 5",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 164,
+    "district": "신대방2동",
+    "latitude": 37.4940212,
+    "longitude": 126.9256874,
+    "address": "서울특별시 동작구 보라매로7가길 15",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 165,
+    "district": "신대방2동",
+    "latitude": 37.4962925,
+    "longitude": 126.926782,
+    "address": "서울특별시 동작구 보라매로13길 18",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 166,
+    "district": "신대방2동",
+    "latitude": 37.4974994,
+    "longitude": 126.9261475,
+    "address": "서울특별시 동작구 보라매로17길 33",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 167,
+    "district": "신대방2동",
+    "latitude": 37.4977357,
+    "longitude": 126.9294268,
+    "address": "서울특별시 동작구 국사봉길 34",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 168,
+    "district": "신대방2동",
+    "latitude": 37.4974288,
+    "longitude": 126.9285676,
+    "address": "서울특별시 동작구 국사봉2길 27",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 169,
+    "district": "신대방2동",
+    "latitude": 37.49697,
+    "longitude": 126.9296424,
+    "address": "서울특별시 동작구 국사봉2나길 19",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 170,
+    "district": "신대방2동",
+    "latitude": 37.4962486,
+    "longitude": 126.9286818,
+    "address": "서울특별시 동작구 국사봉2라길 3",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 171,
+    "district": "신대방2동",
+    "latitude": 37.4948796,
+    "longitude": 126.92952,
+    "address": "서울특별시 동작구 국사봉2바길 23",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 172,
+    "district": "대방동",
+    "latitude": 37.5000241,
+    "longitude": 126.9292549,
+    "address": "서울특별시 동작구 상도로11길 1",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 173,
+    "district": "대방동",
+    "latitude": 37.5000245,
+    "longitude": 126.929843,
+    "address": "서울특별시 동작구 상도로11길 4-10",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 174,
+    "district": "대방동",
+    "latitude": 37.4979474,
+    "longitude": 126.9222795,
+    "address": "서울특별시 동작구 여의대방로24길 35",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 175,
+    "district": "대방동",
+    "latitude": 37.4983258,
+    "longitude": 126.9223583,
+    "address": "서울특별시 동작구 여의대방로24라길 7",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 176,
+    "district": "대방동",
+    "latitude": 37.506889,
+    "longitude": 126.9280269,
+    "address": "서울특별시 동작구 여의대방로247마길 10",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 177,
+    "district": "대방동",
+    "latitude": 37.5043177,
+    "longitude": 126.9226347,
+    "address": "서울특별시 동작구 여의대방로36길 7",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 178,
+    "district": "대방동",
+    "latitude": 37.5047329,
+    "longitude": 126.9237087,
+    "address": "서울특별시 동작구 여의대방로36길 16",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 179,
+    "district": "대방동",
+    "latitude": 37.5055538,
+    "longitude": 126.9252686,
+    "address": "서울특별시 동작구 여의대방로36길 36-1",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 180,
+    "district": "대방동",
+    "latitude": 37.5090446,
+    "longitude": 126.9317232,
+    "address": "서울특별시 동작구 여의대방로36길 101-12",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 181,
+    "district": "대방동",
+    "latitude": 37.5125116,
+    "longitude": 126.9285869,
+    "address": "서울특별시 동작구 여의대방로54길 31",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 182,
+    "district": "대방동",
+    "latitude": 37.5026624,
+    "longitude": 126.9265721,
+    "address": "서울특별시 동작구 대방동길 43",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 183,
+    "district": "대방동",
+    "latitude": 37.5039229,
+    "longitude": 126.9252024,
+    "address": "서울특별시 동작구 대방동길 67",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 184,
+    "district": "대방동",
+    "latitude": 37.5048416,
+    "longitude": 126.9247378,
+    "address": "서울특별시 동작구 대방동길 77",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 185,
+    "district": "대방동",
+    "latitude": 37.5004643,
+    "longitude": 126.9271397,
+    "address": "서울특별시 동작구 대방동1길 4",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 186,
+    "district": "대방동",
+    "latitude": 37.5023032,
+    "longitude": 126.9284272,
+    "address": "서울특별시 동작구 대방동2길 28",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 187,
+    "district": "대방동",
+    "latitude": 37.502834,
+    "longitude": 126.9272844,
+    "address": "서울특별시 동작구 대방동2길 40",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 188,
+    "district": "대방동",
+    "latitude": 37.5029508,
+    "longitude": 126.9267188,
+    "address": "서울특별시 동작구 대방동2길 44",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 189,
+    "district": "대방동",
+    "latitude": 37.5020852,
+    "longitude": 126.9256792,
+    "address": "서울특별시 동작구 대방동7길 27",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 190,
+    "district": "대방동",
+    "latitude": 37.500688,
+    "longitude": 126.9246855,
+    "address": "서울특별시 동작구 대방동7길 76",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 191,
+    "district": "대방동",
+    "latitude": 37.5029221,
+    "longitude": 126.9240498,
+    "address": "서울특별시 동작구 대방동15길 12",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 192,
+    "district": "대방동",
+    "latitude": 37.5029396,
+    "longitude": 126.9233147,
+    "address": "서울특별시 동작구 대방동15길 20",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 193,
+    "district": "대방동",
+    "latitude": 37.5029753,
+    "longitude": 126.9228397,
+    "address": "서울특별시 동작구 대방동15길 24",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 194,
+    "district": "대방동",
+    "latitude": 37.5035702,
+    "longitude": 126.9231105,
+    "address": "서울특별시 동작구 대방동15나길 16",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 195,
+    "district": "대방동",
+    "latitude": 37.5039312,
+    "longitude": 126.9240714,
+    "address": "서울특별시 동작구 대방동23길 21",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 196,
+    "district": "대방동",
+    "latitude": 37.5017149,
+    "longitude": 126.9242547,
+    "address": "서울특별시 동작구 대방동27길 77",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 197,
+    "district": "대방동",
+    "latitude": 37.500246,
+    "longitude": 126.9239395,
+    "address": "서울특별시 동작구 대방동27길 110",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 198,
+    "district": "대방동",
+    "latitude": 37.4986898,
+    "longitude": 126.9440593,
+    "address": "서울특별시 동작구 등용로 51-4",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 199,
+    "district": "대방동",
+    "latitude": 37.5099637,
+    "longitude": 126.9318581,
+    "address": "서울특별시 동작구 등용로 97",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 200,
+    "district": "대방동",
+    "latitude": 37.5114839,
+    "longitude": 126.9276491,
+    "address": "서울특별시 동작구 알마타길 21-10",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 201,
+    "district": "대방동",
+    "latitude": 37.5109614,
+    "longitude": 126.9278532,
+    "address": "서울특별시 동작구 알마타길 26",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 202,
+    "district": "노량진1동",
+    "latitude": 37.513178,
+    "longitude": 126.9444215,
+    "address": "서울특별시 동작구 만양로 110",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 203,
+    "district": "노량진1동",
+    "latitude": 37.5085754,
+    "longitude": 126.9475579,
+    "address": "서울특별시 동작구 만양로8길 11",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 204,
+    "district": "노량진1동",
+    "latitude": 37.5093229,
+    "longitude": 126.9469353,
+    "address": "서울특별시 동작구 만양로8길 33",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 205,
+    "district": "노량진1동",
+    "latitude": 37.511555,
+    "longitude": 126.9418665,
+    "address": "서울특별시 동작구 만양로8길 84",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 206,
+    "district": "노량진1동",
+    "latitude": 37.5095389,
+    "longitude": 126.9463809,
+    "address": "서울특별시 동작구 만양로10길 15",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 207,
+    "district": "노량진1동",
+    "latitude": 37.5108637,
+    "longitude": 126.9470925,
+    "address": "서울특별시 동작구 만양로12가길 1",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 208,
+    "district": "노량진1동",
+    "latitude": 37.511522,
+    "longitude": 126.9483249,
+    "address": "서울특별시 동작구 만양로12가길 24",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 209,
+    "district": "노량진1동",
+    "latitude": 37.5099256,
+    "longitude": 126.9447633,
+    "address": "서울특별시 동작구 만양로13길 17",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 210,
+    "district": "노량진1동",
+    "latitude": 37.5106378,
+    "longitude": 126.945758,
+    "address": "서울특별시 동작구 만양로14다길 23",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 211,
+    "district": "노량진1동",
+    "latitude": 37.5120888,
+    "longitude": 126.9466166,
+    "address": "서울특별시 동작구 만양로14바길 4",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 212,
+    "district": "노량진1동",
+    "latitude": 37.51117,
+    "longitude": 126.9469226,
+    "address": "서울특별시 동작구 만양로14바길 21-4",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 213,
+    "district": "노량진1동",
+    "latitude": 37.5107463,
+    "longitude": 126.9464931,
+    "address": "서울특별시 동작구 만양로14바길 36",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 214,
+    "district": "노량진1동",
+    "latitude": 37.5120171,
+    "longitude": 126.9473066,
+    "address": "서울특별시 동작구 만양로14사길 9",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 215,
+    "district": "노량진1동",
+    "latitude": 37.5084818,
+    "longitude": 126.9403534,
+    "address": "서울특별시 동작구 장승배기로 122",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 216,
+    "district": "노량진1동",
+    "latitude": 37.5101394,
+    "longitude": 126.9399335,
+    "address": "서울특별시 동작구 장승배기로 139-2",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 217,
+    "district": "노량진1동",
+    "latitude": 37.5100045,
+    "longitude": 126.9403748,
+    "address": "서울특별시 동작구 장승배기로 140",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 218,
+    "district": "노량진1동",
+    "latitude": 37.5105645,
+    "longitude": 126.9431114,
+    "address": "서울특별시 동작구 장승배기로16길 135",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 219,
+    "district": "노량진1동",
+    "latitude": 37.5096362,
+    "longitude": 126.9426937,
+    "address": "서울특별시 동작구 장승배기로20길 54",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 220,
+    "district": "노량진1동",
+    "latitude": 37.5096897,
+    "longitude": 126.9415287,
+    "address": "서울특별시 동작구 장승배기로20다길 6-1",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 221,
+    "district": "노량진1동",
+    "latitude": 37.5099866,
+    "longitude": 126.9407141,
+    "address": "서울특별시 동작구 장승배기로24길 16-1",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 222,
+    "district": "노량진1동",
+    "latitude": 37.5111046,
+    "longitude": 126.942127,
+    "address": "서울특별시 동작구 장승배기로24길 61",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 223,
+    "district": "노량진1동",
+    "latitude": 37.511555,
+    "longitude": 126.9418665,
+    "address": "서울특별시 동작구 장승배기로24가길 42",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 224,
+    "district": "노량진1동",
+    "latitude": 37.5108708,
+    "longitude": 126.9431451,
+    "address": "서울특별시 동작구 장승배기로26길 68-3",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 225,
+    "district": "노량진1동",
+    "latitude": 37.5121949,
+    "longitude": 126.9424315,
+    "address": "서울특별시 동작구 장승배기로28길 36",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 226,
+    "district": "",
+    "latitude": 37.5118886,
+    "longitude": 126.9424996,
+    "address": "서울특별시 동작구 은하멘션 다동",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 227,
+    "district": "노량진2동",
+    "latitude": 37.5117608,
+    "longitude": 126.9392649,
+    "address": "서울특별시 동작구 장승배기로27길 13",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 228,
+    "district": "노량진2동",
+    "latitude": 37.5073374,
+    "longitude": 126.9401281,
+    "address": "서울특별시 동작구 장승배기로 110",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 229,
+    "district": "노량진1동",
+    "latitude": 37.5106689,
+    "longitude": 126.9361328,
+    "address": "서울특별시 동작구 노량진로6길 53",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 230,
+    "district": "노량진2동",
+    "latitude": 37.5103717,
+    "longitude": 126.9363253,
+    "address": "서울특별시 동작구 노량진로6길 63",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 231,
+    "district": "노량진2동",
+    "latitude": 37.5092361,
+    "longitude": 126.9357269,
+    "address": "서울특별시 동작구 노량진로6다길 32",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 232,
+    "district": "노량진2동",
+    "latitude": 37.5120669,
+    "longitude": 126.9387896,
+    "address": "서울특별시 동작구 노량진로8길 64",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 233,
+    "district": "노량진2동",
+    "latitude": 37.5090023,
+    "longitude": 126.936417,
+    "address": "서울특별시 동작구 노량진로8나길 84",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 234,
+    "district": "노량진2동",
+    "latitude": 37.5118041,
+    "longitude": 126.9359734,
+    "address": "서울특별시 동작구 노량진로10가길 32",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 235,
+    "district": "노량진2동",
+    "latitude": 37.511555,
+    "longitude": 126.9418665,
+    "address": "서울특별시 동작구 등용로4길 42",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 236,
+    "district": "노량진2동",
+    "latitude": 37.511555,
+    "longitude": 126.9418665,
+    "address": "서울특별시 동작구 등용로4길 80",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 237,
+    "district": "상도2동",
+    "latitude": 37.511555,
+    "longitude": 126.9418665,
+    "address": "서울특별시 동작구 장승배기로 55",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 238,
+    "district": "상도2동",
+    "latitude": 37.5008866,
+    "longitude": 126.9408798,
+    "address": "서울특별시 동작구 장승배기로3길 8",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 239,
+    "district": "상도2동",
+    "latitude": 37.5124291,
+    "longitude": 126.9422956,
+    "address": "서울특별시 동작구 장승배기로28길 37",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 240,
+    "district": "상도2동",
+    "latitude": 37.5055834,
+    "longitude": 126.9461689,
+    "address": "서울특별시 동작구 만양로 7-9",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 241,
+    "district": "상도2동",
+    "latitude": 37.5065299,
+    "longitude": 126.9470504,
+    "address": "서울특별시 동작구 만양로 17-4",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 242,
+    "district": "상도2동",
+    "latitude": 37.5059896,
+    "longitude": 126.9477746,
+    "address": "서울특별시 동작구 만양로 20-8",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 243,
+    "district": "상도2동",
+    "latitude": 37.5062509,
+    "longitude": 126.9477179,
+    "address": "서울특별시 동작구 만양로2길 2",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 244,
+    "district": "상도2동",
+    "latitude": 37.5067656,
+    "longitude": 126.9502962,
+    "address": "서울특별시 동작구 만양로2길 50",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 245,
+    "district": "상도2동",
+    "latitude": 37.5073426,
+    "longitude": 126.951178,
+    "address": "서울특별시 동작구 만양로2길 74",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 246,
+    "district": "상도2동",
+    "latitude": 37.5044249,
+    "longitude": 126.9360025,
+    "address": "서울특별시 동작구 상도로15길 97",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 247,
+    "district": "상도2동",
+    "latitude": 37.5049486,
+    "longitude": 126.9379473,
+    "address": "서울특별시 동작구 상도로15길 131",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 248,
+    "district": "상도2동",
+    "latitude": 37.5037836,
+    "longitude": 126.9330852,
+    "address": "서울특별시 동작구 상도로15마길 34",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 249,
+    "district": "상도2동",
+    "latitude": 37.5049469,
+    "longitude": 126.9349276,
+    "address": "서울특별시 동작구 상도로15바길 24",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 250,
+    "district": "상도2동",
+    "latitude": 37.5053075,
+    "longitude": 126.9352892,
+    "address": "서울특별시 동작구 상도로15바길 28",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 251,
+    "district": "상도2동",
+    "latitude": 37.5041539,
+    "longitude": 126.934589,
+    "address": "서울특별시 동작구 상도로15아길 15",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 252,
+    "district": "상도2동",
+    "latitude": 37.5050822,
+    "longitude": 126.935165,
+    "address": "서울특별시 동작구 상도로15차길 19",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 253,
+    "district": "상도2동",
+    "latitude": 37.5055421,
+    "longitude": 126.9358771,
+    "address": "서울특별시 동작구 상도로15카길 23",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 254,
+    "district": "상도2동",
+    "latitude": 37.5060968,
+    "longitude": 126.9458067,
+    "address": "서울특별시 동작구 상도로31길 63",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 255,
+    "district": "상도2동",
+    "latitude": 37.5040966,
+    "longitude": 126.9457516,
+    "address": "서울특별시 동작구 상도로34길 15",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 256,
+    "district": "상도2동",
+    "latitude": 37.4986898,
+    "longitude": 126.9440593,
+    "address": "서울특별시 동작구 상도로34길 39",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 257,
+    "district": "상도2동",
+    "latitude": 37.5035023,
+    "longitude": 126.9465663,
+    "address": "서울특별시 동작구 상도로36길 8",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 258,
+    "district": "상도2동",
+    "latitude": 37.5051462,
+    "longitude": 126.9367596,
+    "address": "서울특별시 동작구 등용로 13",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 259,
+    "district": "상도2동",
+    "latitude": 37.5064791,
+    "longitude": 126.9358537,
+    "address": "서울특별시 동작구 등용로 24-5",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 260,
+    "district": "상도2동",
+    "latitude": 37.511555,
+    "longitude": 126.9418665,
+    "address": "서울특별시 동작구 등용로2길 5-8",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 261,
+    "district": "상도2동",
+    "latitude": 37.5016147,
+    "longitude": 126.9375995,
+    "address": "서울특별시 동작구 성대로37길 73",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 262,
+    "district": "상도2동",
+    "latitude": 37.4998074,
+    "longitude": 126.9447935,
+    "address": "서울특별시 동작구 양녕로 210-5",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 263,
+    "district": "상도2동",
+    "latitude": 37.5069639,
+    "longitude": 126.9506014,
+    "address": "서울특별시 동작구 매봉로 31-16",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 264,
+    "district": "상도2동",
+    "latitude": 37.5023191,
+    "longitude": 126.9406298,
+    "address": "서울특별시 동작구 장승배기로10가길 45",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 265,
+    "district": "상도2동",
+    "latitude": 37.5020941,
+    "longitude": 126.9410824,
+    "address": "서울특별시 동작구 장승배기로10가길 65",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 266,
+    "district": "상도3동",
+    "latitude": 37.4977357,
+    "longitude": 126.9294268,
+    "address": "서울특별시 동작구 국사봉길 34",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 267,
+    "district": "상도3동",
+    "latitude": 37.4956376,
+    "longitude": 126.9315095,
+    "address": "서울특별시 동작구 국사봉길 98",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 268,
+    "district": "상도3동",
+    "latitude": 37.4954758,
+    "longitude": 126.9321655,
+    "address": "서울특별시 동작구 국사봉길 109",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 269,
+    "district": "상도3동",
+    "latitude": 37.4953137,
+    "longitude": 126.932177,
+    "address": "서울특별시 동작구 국사봉길 109-2",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 270,
+    "district": "상도3동",
+    "latitude": 37.4948094,
+    "longitude": 126.9326863,
+    "address": "서울특별시 동작구 국사봉길 125",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 271,
+    "district": "상도3동",
+    "latitude": 37.4942155,
+    "longitude": 126.933942,
+    "address": "서울특별시 동작구 국사봉길 160",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 272,
+    "district": "상도3동",
+    "latitude": 37.4952608,
+    "longitude": 126.9342803,
+    "address": "서울특별시 동작구 국사봉1길 165",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 273,
+    "district": "상도3동",
+    "latitude": 37.4949548,
+    "longitude": 126.9349139,
+    "address": "서울특별시 동작구 국사봉1길 181",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 274,
+    "district": "상도3동",
+    "latitude": 37.4944415,
+    "longitude": 126.9353553,
+    "address": "서울특별시 동작구 국사봉1길 200",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 275,
+    "district": "상도3동",
+    "latitude": 37.4933517,
+    "longitude": 126.9361705,
+    "address": "서울특별시 동작구 국사봉1길 221-8",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 276,
+    "district": "상도3동",
+    "latitude": 37.4973746,
+    "longitude": 126.9283189,
+    "address": "서울특별시 동작구 국사봉2길 28",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 277,
+    "district": "상도3동",
+    "latitude": 37.4955645,
+    "longitude": 126.9297794,
+    "address": "서울특별시 동작구 국사봉6길 42",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 278,
+    "district": "상도3동",
+    "latitude": 37.4949068,
+    "longitude": 126.9298705,
+    "address": "서울특별시 동작구 국사봉6길 56",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 279,
+    "district": "상도3동",
+    "latitude": 37.4954208,
+    "longitude": 126.9305598,
+    "address": "서울특별시 동작구 국사봉8길 29",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 280,
+    "district": "상도3동",
+    "latitude": 37.4944478,
+    "longitude": 126.9306173,
+    "address": "서울특별시 동작구 국사봉8길 52",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 281,
+    "district": "상도3동",
+    "latitude": 37.4940604,
+    "longitude": 126.9306968,
+    "address": "서울특별시 동작구 국사봉8길 64-12",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 282,
+    "district": "상도3동",
+    "latitude": 37.4955202,
+    "longitude": 126.9309668,
+    "address": "서울특별시 동작구 국사봉10길 14",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 283,
+    "district": "상도3동",
+    "latitude": 37.4933585,
+    "longitude": 126.9321335,
+    "address": "서울특별시 동작구 국사봉10길 68",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 284,
+    "district": "상도3동",
+    "latitude": 37.4942149,
+    "longitude": 126.9330148,
+    "address": "서울특별시 동작구 국사봉18길 10",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 285,
+    "district": "상도3동",
+    "latitude": 37.4977648,
+    "longitude": 126.9328532,
+    "address": "서울특별시 동작구 성대로6가길 24",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 286,
+    "district": "상도3동",
+    "latitude": 37.4973684,
+    "longitude": 126.9330345,
+    "address": "서울특별시 동작구 성대로6가길 34",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 287,
+    "district": "상도3동",
+    "latitude": 37.4986898,
+    "longitude": 126.9440593,
+    "address": "서울특별시 동작구 성대로6가길 68",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 288,
+    "district": "상도3동",
+    "latitude": 37.4938475,
+    "longitude": 126.9364753,
+    "address": "서울특별시 동작구 성대로6가길 149",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 289,
+    "district": "상도3동",
+    "latitude": 37.4970091,
+    "longitude": 126.934946,
+    "address": "서울특별시 동작구 성대로10길 19",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 290,
+    "district": "상도3동",
+    "latitude": 37.4965591,
+    "longitude": 126.9358397,
+    "address": "서울특별시 동작구 성대로10길 37",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 291,
+    "district": "상도3동",
+    "latitude": 37.501322,
+    "longitude": 126.9299662,
+    "address": "서울특별시 동작구 상도로13길 17",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 292,
+    "district": "상도3동",
+    "latitude": 37.5020877,
+    "longitude": 126.9297279,
+    "address": "서울특별시 동작구 상도로13길 25",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 293,
+    "district": "상도3동",
+    "latitude": 37.5026644,
+    "longitude": 126.9298179,
+    "address": "서울특별시 동작구 상도로13길 32",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 294,
+    "district": "상도3동",
+    "latitude": 37.5031327,
+    "longitude": 126.9293877,
+    "address": "서울특별시 동작구 상도로13길 37",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 295,
+    "district": "상도3동",
+    "latitude": 37.5004659,
+    "longitude": 126.9297408,
+    "address": "서울특별시 동작구 상도로13나길 7",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 296,
+    "district": "상도3동",
+    "latitude": 37.5012587,
+    "longitude": 126.9295138,
+    "address": "서울특별시 동작구 상도로13나길 15",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 297,
+    "district": "상도3동",
+    "latitude": 37.502574,
+    "longitude": 126.9293543,
+    "address": "서울특별시 동작구 상도로13나길 30",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 298,
+    "district": "상도3동",
+    "latitude": 37.5009078,
+    "longitude": 126.9303171,
+    "address": "서울특별시 동작구 상도로13다길 1",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 299,
+    "district": "상도3동",
+    "latitude": 37.5012325,
+    "longitude": 126.930871,
+    "address": "서울특별시 동작구 상도로13다길 6",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 300,
+    "district": "상도3동",
+    "latitude": 37.5023405,
+    "longitude": 126.9305533,
+    "address": "서울특별시 동작구 상도로13다길 19",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 301,
+    "district": "상도3동",
+    "latitude": 37.5013043,
+    "longitude": 126.9304298,
+    "address": "서울특별시 동작구 상도로13라길 1",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 302,
+    "district": "상도3동",
+    "latitude": 37.5022502,
+    "longitude": 126.9301462,
+    "address": "서울특별시 동작구 상도로13라길 13",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 303,
+    "district": "상도3동",
+    "latitude": 37.5021701,
+    "longitude": 126.9318653,
+    "address": "서울특별시 동작구 상도로15가길 26",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 304,
+    "district": "상도1동",
+    "latitude": 37.5060438,
+    "longitude": 126.9479782,
+    "address": "서울특별시 동작구 만양로 20-10",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 305,
+    "district": "상도1동",
+    "latitude": 37.5067656,
+    "longitude": 126.9502962,
+    "address": "서울특별시 동작구 만양로2길 50",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 306,
+    "district": "상도1동",
+    "latitude": 37.5073426,
+    "longitude": 126.951178,
+    "address": "서울특별시 동작구 만양로2길 74",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 307,
+    "district": "상도1동",
+    "latitude": 37.507199,
+    "longitude": 126.9525579,
+    "address": "서울특별시 동작구 매봉로2길 8",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 308,
+    "district": "상도1동",
+    "latitude": 37.5074606,
+    "longitude": 126.9533381,
+    "address": "서울특별시 동작구 매봉로2길 15",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 309,
+    "district": "상도1동",
+    "latitude": 37.5079195,
+    "longitude": 126.9518901,
+    "address": "서울특별시 동작구 매봉로4길 3",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 310,
+    "district": "상도1동",
+    "latitude": 37.5083705,
+    "longitude": 126.9529077,
+    "address": "서울특별시 동작구 매봉로4길13-1",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 311,
+    "district": "상도1동",
+    "latitude": 37.5049099,
+    "longitude": 126.9511231,
+    "address": "서울특별시 동작구 흑석로 3",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 312,
+    "district": "상도1동",
+    "latitude": 37.5069646,
+    "longitude": 126.9521283,
+    "address": "서울특별시 동작구 강남초등길 3",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 313,
+    "district": "상도1동",
+    "latitude": 37.5061893,
+    "longitude": 126.951224,
+    "address": "서울특별시 동작구 강남초등2길 19",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 314,
+    "district": "상도1동",
+    "latitude": 37.5057208,
+    "longitude": 126.9512582,
+    "address": "서울특별시 동작구 강남초등4길 14",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 315,
+    "district": "상도1동",
+    "latitude": 37.5055045,
+    "longitude": 126.9509643,
+    "address": "서울특별시 동작구 강남초등6길 26",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 316,
+    "district": "상도1동",
+    "latitude": 37.5053065,
+    "longitude": 126.9515186,
+    "address": "서울특별시 동작구 강남초등8길 10",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 317,
+    "district": "상도1동",
+    "latitude": 37.5045305,
+    "longitude": 126.9488162,
+    "address": "서울특별시 동작구 상도로 265-33",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 318,
+    "district": "상도1동",
+    "latitude": 37.5035023,
+    "longitude": 126.9465663,
+    "address": "서울특별시 동작구 상도로36길 8",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 319,
+    "district": "상도1동",
+    "latitude": 37.5006113,
+    "longitude": 126.9491469,
+    "address": "서울특별시 동작구 상도로38길 3-42",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 320,
+    "district": "상도1동",
+    "latitude": 37.5017006,
+    "longitude": 126.9473366,
+    "address": "서울특별시 동작구 상도로38길 22",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 321,
+    "district": "상도1동",
+    "latitude": 37.5011154,
+    "longitude": 126.9481174,
+    "address": "서울특별시 동작구 상도로38길 42",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 322,
+    "district": "상도1동",
+    "latitude": 37.5009173,
+    "longitude": 126.948536,
+    "address": "서울특별시 동작구 상도로38길 52",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 323,
+    "district": "상도1동",
+    "latitude": 37.5007012,
+    "longitude": 126.9488075,
+    "address": "서울특별시 동작구 상도로38길 58",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 324,
+    "district": "상도1동",
+    "latitude": 37.4986898,
+    "longitude": 126.9440593,
+    "address": "서울특별시 동작구 상도로38길 88",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 325,
+    "district": "상도1동",
+    "latitude": 37.5022865,
+    "longitude": 126.9477547,
+    "address": "서울특별시 동작구 상도로38가길 1",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 326,
+    "district": "상도1동",
+    "latitude": 37.5030264,
+    "longitude": 126.9501065,
+    "address": "서울특별시 동작구 상도로39길 47",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 327,
+    "district": "상도1동",
+    "latitude": 37.5028818,
+    "longitude": 126.9492923,
+    "address": "서울특별시 동작구 상도로39가길 1",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 328,
+    "district": "상도1동",
+    "latitude": 37.5021611,
+    "longitude": 126.9495303,
+    "address": "서울특별시 동작구 상도로39가길 10",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 329,
+    "district": "상도1동",
+    "latitude": 37.5038643,
+    "longitude": 126.9501964,
+    "address": "서울특별시 동작구 상도로41가길 19",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 330,
+    "district": "상도1동",
+    "latitude": 37.5028645,
+    "longitude": 126.9508417,
+    "address": "서울특별시 동작구 상도로41다길 13",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 331,
+    "district": "상도1동",
+    "latitude": 37.5020456,
+    "longitude": 126.9531946,
+    "address": "서울특별시 동작구 상도로45길 64",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 332,
+    "district": "상도1동",
+    "latitude": 37.5005405,
+    "longitude": 126.9523134,
+    "address": "서울특별시 동작구 상도로47길 32",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 333,
+    "district": "상도1동",
+    "latitude": 37.5039371,
+    "longitude": 126.9518701,
+    "address": "서울특별시 동작구 상도로47길 108",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 334,
+    "district": "상도1동",
+    "latitude": 37.504658,
+    "longitude": 126.9520393,
+    "address": "서울특별시 동작구 상도로47길 124",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 335,
+    "district": "상도1동",
+    "latitude": 37.500054,
+    "longitude": 126.9523816,
+    "address": "서울특별시 동작구 상도로47나길 30",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 336,
+    "district": "상도1동",
+    "latitude": 37.5004237,
+    "longitude": 126.9530034,
+    "address": "서울특별시 동작구 상도로47다길 1",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 337,
+    "district": "상도1동",
+    "latitude": 37.5034782,
+    "longitude": 126.9534085,
+    "address": "서울특별시 동작구 상도로47바길 31",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 338,
+    "district": "상도1동",
+    "latitude": 37.5036405,
+    "longitude": 126.9534876,
+    "address": "서울특별시 동작구 상도로47바길 41",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 339,
+    "district": "상도1동",
+    "latitude": 37.5030909,
+    "longitude": 126.9535219,
+    "address": "서울특별시 동작구 상도로47사길 6",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 340,
+    "district": "상도1동",
+    "latitude": 37.4978549,
+    "longitude": 126.950732,
+    "address": "서울특별시 동작구 상도로50길 19",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 341,
+    "district": "상도1동",
+    "latitude": 37.4986898,
+    "longitude": 126.9440593,
+    "address": "서울특별시 동작구 상도로50길 34",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 342,
+    "district": "상도1동",
+    "latitude": 37.4969642,
+    "longitude": 126.953899,
+    "address": "서울특별시 동작구 상도로55길 6",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 343,
+    "district": "상도1동",
+    "latitude": 37.4941261,
+    "longitude": 126.9540251,
+    "address": "서울특별시 동작구 상도로60길 12",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 344,
+    "district": "상도1동",
+    "latitude": 37.4944073,
+    "longitude": 126.9590118,
+    "address": "서울특별시 동작구 상도로61길 74",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 345,
+    "district": "상도1동",
+    "latitude": 37.4978282,
+    "longitude": 126.9516141,
+    "address": "서울특별시 동작구 상도로62길 91",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 346,
+    "district": "상도1동",
+    "latitude": 37.4944953,
+    "longitude": 126.953516,
+    "address": "서울특별시 동작구 상도로62가길 17",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 347,
+    "district": "상도1동",
+    "latitude": 37.4939095,
+    "longitude": 126.9532111,
+    "address": "서울특별시 동작구 상도로62가길 32",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 348,
+    "district": "상도1동",
+    "latitude": 37.4936036,
+    "longitude": 126.9542742,
+    "address": "서울특별시 동작구 상도로66길 21",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 349,
+    "district": "상도1동",
+    "latitude": 37.4923518,
+    "longitude": 126.9556546,
+    "address": "서울특별시 동작구 상도로68길 29",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 350,
+    "district": "사당2동",
+    "latitude": 37.4850154,
+    "longitude": 126.9796065,
+    "address": "서울특별시 동작구 동작대로25길 54",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 351,
+    "district": "사당2동",
+    "latitude": 37.4880517,
+    "longitude": 126.9791307,
+    "address": "서울특별시 동작구 동작대로27길 57",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 352,
+    "district": "사당2동",
+    "latitude": 37.4856085,
+    "longitude": 126.9722909,
+    "address": "서울특별시 동작구 동작대로27라길 4",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 353,
+    "district": "사당2동",
+    "latitude": 37.488439,
+    "longitude": 126.9780903,
+    "address": "서울특별시 동작구 동작대로29길 69",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 354,
+    "district": "사당2동",
+    "latitude": 37.4908003,
+    "longitude": 126.9817532,
+    "address": "서울특별시 동작구 동작대로33가길 27",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 355,
+    "district": "사당2동",
+    "latitude": 37.4924396,
+    "longitude": 126.979005,
+    "address": "서울특별시 동작구 동작대로35길 71",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 356,
+    "district": "사당2동",
+    "latitude": 37.490935,
+    "longitude": 126.9794804,
+    "address": "서울특별시 동작구 동작대로35가길 42",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 357,
+    "district": "사당2동",
+    "latitude": 37.4911151,
+    "longitude": 126.9790167,
+    "address": "서울특별시 동작구 동작대로35가길 49",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 358,
+    "district": "사당2동",
+    "latitude": 37.4912772,
+    "longitude": 126.9787453,
+    "address": "서울특별시 동작구 동작대로35가길 55",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 359,
+    "district": "사당2동",
+    "latitude": 37.4923131,
+    "longitude": 126.9771845,
+    "address": "서울특별시 동작구 동작대로35가길 95",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 360,
+    "district": "사당2동",
+    "latitude": 37.4932504,
+    "longitude": 126.9787334,
+    "address": "서울특별시 동작구 동작대로35아길 17",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 361,
+    "district": "사당2동",
+    "latitude": 37.4942237,
+    "longitude": 126.9794342,
+    "address": "서울특별시 동작구 동작대로39가길 31",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 362,
+    "district": "사당3동",
+    "latitude": 37.4864011,
+    "longitude": 126.9712503,
+    "address": "서울특별시 동작구 사당로9길 17",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 363,
+    "district": "사당3동",
+    "latitude": 37.4865987,
+    "longitude": 126.9687401,
+    "address": "서울특별시 동작구 사당로9가길 37",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 364,
+    "district": "사당3동",
+    "latitude": 37.4857882,
+    "longitude": 126.9704139,
+    "address": "서울특별시 동작구 사당로9나길 1",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 365,
+    "district": "사당3동",
+    "latitude": 37.4860225,
+    "longitude": 126.970199,
+    "address": "서울특별시 동작구 사당로9나길 7",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 366,
+    "district": "사당3동",
+    "latitude": 37.4868693,
+    "longitude": 126.9699612,
+    "address": "서울특별시 동작구 사당로9다길 26",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 367,
+    "district": "사당3동",
+    "latitude": 37.4870766,
+    "longitude": 126.9700628,
+    "address": "서울특별시 동작구 사당로9다길 30-6",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 368,
+    "district": "사당3동",
+    "latitude": 37.4858519,
+    "longitude": 126.9725621,
+    "address": "서울특별시 동작구 사당로17길 65",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 369,
+    "district": "사당3동",
+    "latitude": 37.4866805,
+    "longitude": 126.971499,
+    "address": "서울특별시 동작구 사당로17길 95",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 370,
+    "district": "사당3동",
+    "latitude": 37.4903654,
+    "longitude": 126.9706834,
+    "address": "서울특별시 동작구 사당로23길 185",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 371,
+    "district": "사당3동",
+    "latitude": 37.4912753,
+    "longitude": 126.9703212,
+    "address": "서울특별시 동작구 사당로23길 208",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 372,
+    "district": "사당3동",
+    "latitude": 37.4903022,
+    "longitude": 126.9700276,
+    "address": "서울특별시 동작구 사당로23바길 24",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 373,
+    "district": "사당3동",
+    "latitude": 37.4912119,
+    "longitude": 126.9689643,
+    "address": "서울특별시 동작구 사당로23사길 38",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 374,
+    "district": "사당3동",
+    "latitude": 37.4909423,
+    "longitude": 126.9715651,
+    "address": "서울특별시 동작구 사당로27길 190",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 375,
+    "district": "사당3동",
+    "latitude": 37.4915457,
+    "longitude": 126.9704341,
+    "address": "서울특별시 동작구 사당로27길 221",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 376,
+    "district": "사당3동",
+    "latitude": 37.4920501,
+    "longitude": 126.9699477,
+    "address": "서울특별시 동작구 사당로27길 235",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 377,
+    "district": "사당3동",
+    "latitude": 37.4855468,
+    "longitude": 126.9783174,
+    "address": "서울특별시 동작구 사당로29길 26",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 378,
+    "district": "사당3동",
+    "latitude": 37.485709,
+    "longitude": 126.9787018,
+    "address": "서울특별시 동작구 사당로29나길 7",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 379,
+    "district": "사당3동",
+    "latitude": 37.4876366,
+    "longitude": 126.9759423,
+    "address": "서울특별시 동작구 사당로29다길 83",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 380,
+    "district": "상도4동",
+    "latitude": 37.4976223,
+    "longitude": 126.9358388,
+    "address": "서울특별시 동작구 성대로 96",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 381,
+    "district": "상도4동",
+    "latitude": 37.5015681,
+    "longitude": 126.9347384,
+    "address": "서울특별시 동작구 성대로1가길 4",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 382,
+    "district": "상도4동",
+    "latitude": 37.4945783,
+    "longitude": 126.9383405,
+    "address": "서울특별시 동작구 성대로10길 97-4",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 383,
+    "district": "상도4동",
+    "latitude": 37.4994686,
+    "longitude": 126.9344349,
+    "address": "서울특별시 동작구 성대로11길 46",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 384,
+    "district": "상도4동",
+    "latitude": 37.4973878,
+    "longitude": 126.9354206,
+    "address": "서울특별시 동작구 성대로12길 5",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 385,
+    "district": "상도4동",
+    "latitude": 37.4965053,
+    "longitude": 126.9362243,
+    "address": "서울특별시 동작구 성대로12길 30",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 386,
+    "district": "상도4동",
+    "latitude": 37.4954168,
+    "longitude": 126.9393915,
+    "address": "서울특별시 동작구 성대로16길 79",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 387,
+    "district": "상도4동",
+    "latitude": 37.4995679,
+    "longitude": 126.9347741,
+    "address": "서울특별시 동작구 성대로17길 49",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 388,
+    "district": "상도4동",
+    "latitude": 37.5003604,
+    "longitude": 126.9341627,
+    "address": "서울특별시 동작구 성대로17길 83",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 389,
+    "district": "상도4동",
+    "latitude": 37.4986898,
+    "longitude": 126.9440593,
+    "address": "서울특별시 동작구 성대로21길 2",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 390,
+    "district": "상도4동",
+    "latitude": 37.5005868,
+    "longitude": 126.9362773,
+    "address": "서울특별시 동작구 성대로21나길 6",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 391,
+    "district": "상도4동",
+    "latitude": 37.4995518,
+    "longitude": 126.9383477,
+    "address": "서울특별시 동작구 성대로25길 23",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 392,
+    "district": "상도4동",
+    "latitude": 37.4992547,
+    "longitude": 126.9388342,
+    "address": "서울특별시 동작구 성대로27길 15",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 393,
+    "district": "상도4동",
+    "latitude": 37.5002004,
+    "longitude": 126.9380983,
+    "address": "서울특별시 동작구 성대로29길 45",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 394,
+    "district": "상도4동",
+    "latitude": 37.5005968,
+    "longitude": 126.9380641,
+    "address": "서울특별시 동작구 성대로29길 52",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 395,
+    "district": "상도4동",
+    "latitude": 37.4976351,
+    "longitude": 126.9429971,
+    "address": "서울특별시 동작구 양녕로 183-1",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 396,
+    "district": "상도4동",
+    "latitude": 37.4944009,
+    "longitude": 126.9438364,
+    "address": "서울특별시 동작구 양녕로20길 42",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 397,
+    "district": "상도4동",
+    "latitude": 37.4946532,
+    "longitude": 126.9439832,
+    "address": "서울특별시 동작구 양녕로20길 52",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 398,
+    "district": "상도4동",
+    "latitude": 37.4951669,
+    "longitude": 126.9442655,
+    "address": "서울특별시 동작구 양녕로20길 64",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 399,
+    "district": "상도4동",
+    "latitude": 37.496014,
+    "longitude": 126.9444232,
+    "address": "서울특별시 동작구 양녕로20길 79",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 400,
+    "district": "상도4동",
+    "latitude": 37.4946257,
+    "longitude": 126.9429994,
+    "address": "서울특별시 동작구 양녕로22길 1",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 401,
+    "district": "상도4동",
+    "latitude": 37.4952306,
+    "longitude": 126.9454528,
+    "address": "서울특별시 동작구 양녕로22길 74",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 402,
+    "district": "상도4동",
+    "latitude": 37.4980332,
+    "longitude": 126.9464685,
+    "address": "서울특별시 동작구 양녕로22라길 62",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 403,
+    "district": "상도4동",
+    "latitude": 37.4961319,
+    "longitude": 126.9462098,
+    "address": "서울특별시 동작구 양녕로22마길 23",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 404,
+    "district": "상도4동",
+    "latitude": 37.4962458,
+    "longitude": 126.9395378,
+    "address": "서울특별시 동작구 양녕로23길 67",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 405,
+    "district": "상도4동",
+    "latitude": 37.4955421,
+    "longitude": 126.9377743,
+    "address": "서울특별시 동작구 양녕로23길 101",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 406,
+    "district": "상도4동",
+    "latitude": 37.4951994,
+    "longitude": 126.9372318,
+    "address": "서울특별시 동작구 양녕로23길 115",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 407,
+    "district": "상도4동",
+    "latitude": 37.497202,
+    "longitude": 126.9417535,
+    "address": "서울특별시 동작구 양녕로25길 43",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 408,
+    "district": "상도4동",
+    "latitude": 37.4972104,
+    "longitude": 126.9406792,
+    "address": "서울특별시 동작구 양녕로25길 60-15",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 409,
+    "district": "상도4동",
+    "latitude": 37.4961744,
+    "longitude": 126.9408723,
+    "address": "서울특별시 동작구 양녕로25길 71",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 410,
+    "district": "상도4동",
+    "latitude": 37.4981666,
+    "longitude": 126.9428723,
+    "address": "서울특별시 동작구 양녕로25나길 2",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 411,
+    "district": "상도4동",
+    "latitude": 37.4973475,
+    "longitude": 126.9445353,
+    "address": "서울특별시 동작구 양녕로26나길 8",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 412,
+    "district": "상도4동",
+    "latitude": 37.499103,
+    "longitude": 126.9415258,
+    "address": "서울특별시 동작구 양녕로27길 41",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 413,
+    "district": "상도4동",
+    "latitude": 37.4991209,
+    "longitude": 126.9413222,
+    "address": "서울특별시 동작구 양녕로27길 45",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 414,
+    "district": "상도4동",
+    "latitude": 37.498042,
+    "longitude": 126.9460953,
+    "address": "서울특별시 동작구 양녕로28길 46",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 415,
+    "district": "상도4동",
+    "latitude": 37.4990777,
+    "longitude": 126.9450315,
+    "address": "서울특별시 동작구 양녕로30길 12",
+    "modified_at": "2026-01-08T00:00:00"
+  },
+  {
+    "bin_id": 416,
+    "district": "상도4동",
+    "latitude": 37.4986363,
+    "longitude": 126.945292,
+    "address": "서울특별시 동작구 양녕로30길 29",
+    "modified_at": "2026-01-08T00:00:00"
+  }
+]
